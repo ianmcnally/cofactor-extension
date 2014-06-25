@@ -4,6 +4,7 @@
   "description": "Making CoFactor working easy by providing you with all the links in one place.",
   "version": "1.0",
   "permissions": [
+    "http://fonts.googleapis.com"
   ],
   "browser_action": {
     "default_icon": "icon.png",
